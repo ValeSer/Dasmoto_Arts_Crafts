@@ -3,15 +3,23 @@
   }
 
   h1 {
-      font-family: Helvetica;
       font-size: 100px;
       font-weight: bold;
       color: khaki;
       text-align: center;
   }
 
+  h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: white; 
+    }
+
   .header {
-    font-family: Helvetica;
     background-image: url('../images/image 1.jpeg');
-    
+  }
+
+  .brushes {
+    background-color: mediumspringgreen;
   }
